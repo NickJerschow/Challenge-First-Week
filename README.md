@@ -12,7 +12,7 @@ The HTML follows a logical structure.
 https://nickjerschow.github.io/first-week-challenge
 
 ## Usage
-![Alt text](Assets/127.0.0.1_5500_Develop_index.html%20(1).png)
+![Alt text](../../../../../Challenges/First-Week-Challenge/Challenge/Develop/assets/images/127.0.0.1_5500_Develop_index.html%20(1).png)
 
 ## Credits
 
