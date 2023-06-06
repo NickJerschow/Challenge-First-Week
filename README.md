@@ -11,7 +11,6 @@ The HTML follows a logical structure.
 ## Installation
 
 ## Usage
-![Alt text](../../../../../Challenges/First-Week-Challenge/Challenge/Develop/assets/images/127.0.0.1_5500_Develop_index.html%20(1).png)
 
 ## Credits
 
